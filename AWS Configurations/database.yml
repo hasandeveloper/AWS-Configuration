@@ -1,0 +1,9 @@
+production:
+ adapter: postgresql
+ encoding: unicode
+ database: refer_and_earn
+ host: localhost
+ pool: 5
+ username: abracadabra
+ password: klocpwd!
+

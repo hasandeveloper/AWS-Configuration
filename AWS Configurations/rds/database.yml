@@ -1,0 +1,9 @@
+production:
+ adapter: postgresql
+ encoding: unicode
+ database: ADD RDS DATABASE NAME
+ host: ADD RDS ENDPOINT
+ pool: 5
+ username: ADD RDS USERNAME
+ password: ADD MASTER PASSWORD
+
