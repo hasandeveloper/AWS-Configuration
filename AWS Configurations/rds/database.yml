@@ -3,6 +3,7 @@ production:
  encoding: unicode
  database: ADD RDS DATABASE NAME
  host: ADD RDS ENDPOINT
+ port: ADD RDS PORT
  pool: 5
  username: ADD RDS USERNAME
  password: ADD MASTER PASSWORD
