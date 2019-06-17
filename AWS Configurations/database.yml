@@ -1,9 +1,9 @@
 production:
  adapter: postgresql
  encoding: unicode
- database: refer_and_earn
+ database: myapp         
  host: localhost
  pool: 5
- username: abracadabra
- password: klocpwd!
+ username: deploy     
+ password: 8421
 
