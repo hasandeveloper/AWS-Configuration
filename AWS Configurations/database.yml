@@ -1,9 +1,9 @@
 production:
  adapter: postgresql
  encoding: unicode
- database: myapp         
+ database: myapp1         
  host: localhost
  pool: 5
- username: deploy     
+ username: deploy1     
  password: 8421
 
