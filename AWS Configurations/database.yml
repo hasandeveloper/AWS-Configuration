@@ -1,9 +1,9 @@
 production:
  adapter: postgresql
  encoding: unicode
- database: myapp1         
+ database: microservice1         
  host: localhost
  pool: 5
- username: deploy1     
+ username: gst-microservice     
  password: 8421
 
