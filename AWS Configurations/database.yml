@@ -1,9 +1,9 @@
 production:
  adapter: postgresql
  encoding: unicode
- database: microservice1         
+ database: gst_report_gen       
  host: localhost
  pool: 5
- username: gst-microservice     
+ username: gst  
  password: 8421
 
